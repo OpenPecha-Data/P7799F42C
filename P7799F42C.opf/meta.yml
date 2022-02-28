@@ -1,0 +1,47 @@
+id: P7799F42C
+initial_creation_type: input
+source_metadata:
+  title: Yukhok Chöying Rangdrol Series
+  language: zh
+  description: 'Texts by Yukhok Chatralwa Chöying Rangdrol (g.yu khog bya bral ba
+    chos dbyings rang grol, 1872–1952), including extracts from his Ngöndro Compendium,
+    a commentary on the Longchen Nyingtik preliminary practices:'
+  volume:
+    e5423e1bf349487eba5091d583fa29a4:
+      title: Advice to Damngak Gyatso of Do
+      parent: Advice
+    f6bc2f65fac1456e97f3aef2fa7b8a7e:
+      title: From the Oral Tradition of the Lama of Nyarong
+      parent: Advice
+    773fec02836445ca960168cfbda07cf7:
+      title: Brief Explanation of Clarification and Transcendental Resolution from
+        the Oral Tradition of Nyala Sogyal
+      parent: Dzogchen
+    d007a67a078b4ba9b7552917a2ceeb3a:
+      title: Commentary on Vajra Verses on the Natural State
+      parent: Dzogchen
+    82a0c55119b24853a28ef357f375b27f:
+      title: How Liberation and Delusion Develop Out of the Clear Light of the Ground,
+        etc.
+      parent: Dzogchen
+    5cffaa68447847e29445a7f5d7d7a545:
+      title: Notes from the Oral Tradition on Ālaya, Ālaya Consciousness, etc.
+      parent: Dzogchen
+    fd8cb4af15c042a69f003f2c498fa1a1:
+      title: Ngöndro Compendium—Part 1—Invoking the Lama
+      parent: Ngöndro Compendium
+    778312345cd342ae81d3426909d0b72f:
+      title: Ngöndro Compendium—Part 2—Taking Refuge
+      parent: Ngöndro Compendium
+    6a4ac00995f64ce0b3c96b9035e0d1c8:
+      title: Ngöndro Compendium—Part 3—Arousing Bodhichitta
+      parent: Ngöndro Compendium
+    97704e8d635a4204b97e5c9dc3384490:
+      title: Ngöndro Compendium—Part 4—Mandala Offering
+      parent: Ngöndro Compendium
+    18da527cc1cb4de590be697cb09f96fa:
+      title: The Final Testament of Yukhok Chatralwa as Transmitted to Lama Rigdzin
+        Nyima
+      parent: Testament
+created_at: '2022-03-01T02:04:57.173691'
+last_modified_at: '2022-03-01T02:04:57.173694'
